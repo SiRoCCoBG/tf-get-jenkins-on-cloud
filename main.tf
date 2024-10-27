@@ -8,9 +8,9 @@ provider "aws" {
 
 
 #provider "aws" {
-# access_key = "XXXXXXXXXXXXXXXX" ## replace with your access key
-# secret_key = "XXXXXXXXXXXXXXXXXXXXX" ## replace with your secret key
-#token      = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" ## replace with token 
+# access_key = "ASIAYFSIHWJZUWJSWTPR" ## replace with your access key
+# secret_key = "nqilaFknLC5zf4vxkEXqK+tJuUQnwAWRNSncouPR" ## replace with your secret key
+#token      = "FwoGZXIvYXdzEMj//////////wEaDOs/+ll2BriHUObcIyK7AQJFt9eLE1wFEpwV/qL1dj8ie90fKkuBIYVHkzaf9VKRViHHjRC7tIJUd2s33/XAq5rcVDSetZK0lsi9OnsoVnQ10D9RTfS/B28+qVS5JJqWIWNj0JNE61KNnxtlUs8ksb50wFuKgkx/5vEMuTkFni+xZWaZhrLo4DuNEWGA6uPM52a6irhXOJbpgFD0VkFMnRv+hY+qrfW37ENMXTCHplSsXZKdV7canztoHyEA1yrq+7NVGu6eO8N7I4Yo/Zj5uAYyLb+mB1jpNqk2d6hNME4hGo5c08COzT7Hqz570gm877i+S/xtsLsFU2bGyC2njw==" ## replace with token 
 #region     = "us-east-1"
 #}
 
